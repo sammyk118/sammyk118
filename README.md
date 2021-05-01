@@ -2,7 +2,7 @@
 I'm a full stack web developer with experience in React, JS, SQL, python, C++, algorithms, & data structures.
 
 Currently I'm working on:
-* Getting more experience with APIs
+* APIs
 * 0Auth 2.0
 * Angular
 * .NET
