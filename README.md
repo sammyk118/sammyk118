@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sammyk118)](https://github.com/sammyk118/github-readme-stats)
 
 <!--
 **sammyk118/sammyk118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
