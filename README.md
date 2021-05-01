@@ -1,5 +1,12 @@
 ### Hi there 
-I'm a full stack web developer 
+I'm a full stack web developer with experience in React, JS, SQL, python, C++, algorithms, & data structures.
+
+Currently I'm working on:
+* Getting more experience with APIs
+* 0Auth 2.0
+* Angular
+* .NET
+
 ![sammyk118's GitHub stats](https://github-readme-stats.vercel.app/api?username=sammyk118&show_icons=true&theme=monokai&hide=issues,stars)
 
 <!--
