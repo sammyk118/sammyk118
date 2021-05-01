@@ -1,5 +1,6 @@
-### Hi there 👋
-![sammyk118's GitHub stats](https://github-readme-stats.vercel.app/api?username=sammyk118&show_icons=true&theme=chartreuse-dark&hide=issues,stars)
+### Hi there 
+I'm a full stack web developer 
+![sammyk118's GitHub stats](https://github-readme-stats.vercel.app/api?username=sammyk118&show_icons=true&theme=monokai&hide=issues,stars)
 
 <!--
 **sammyk118/sammyk118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
