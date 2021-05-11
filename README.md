@@ -3,7 +3,7 @@ I'm a full stack web developer with experience in React, JS, SQL, python, C++, a
 
 Currently I'm working on:
 * APIs
-* 0Auth 2.0
+* OAuth 2.0
 * Angular
 * .NET
 
